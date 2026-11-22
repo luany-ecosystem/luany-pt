@@ -6,7 +6,7 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [Unreleased]
+## [1.0.0] — 2026-11-22
 
 ### Added
 - First release ("Luany em Português", layer L2):
