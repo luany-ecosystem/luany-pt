@@ -1,0 +1,1012 @@
+{
+  "language": "pt",
+  "version": 1,
+  "entries": [
+    {
+      "id": "Luany\\Pt\\Modelo.encontrar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "find",
+      "pt": "encontrar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.encontrarOuFalhar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "findOrFail",
+      "pt": "encontrarOuFalhar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.todos",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "all",
+      "pt": "todos",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.onde",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "where",
+      "pt": "onde",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.primeiroOnde",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "firstWhere",
+      "pt": "primeiroOnde",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.contar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "count",
+      "pt": "contar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.criar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "create",
+      "pt": "criar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.com",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "with",
+      "pt": "com",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.consulta",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "query",
+      "pt": "consulta",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.primeiroOuNovo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "firstOrNew",
+      "pt": "primeiroOuNovo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.primeiroOuCriar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "firstOrCreate",
+      "pt": "primeiroOuCriar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.atualizarOuCriar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "updateOrCreate",
+      "pt": "atualizarOuCriar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.guardar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "save",
+      "pt": "guardar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.atualizar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "update",
+      "pt": "atualizar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.apagar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "delete",
+      "pt": "apagar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.recarregar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "refresh",
+      "pt": "recarregar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.preencher",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "fill",
+      "pt": "preencher",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.paraArray",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "toArray",
+      "pt": "paraArray",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.paraJson",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "toJson",
+      "pt": "paraJson",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.existe",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "exists",
+      "pt": "existe",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.chavePrimaria",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "getKey",
+      "pt": "chavePrimaria",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.foiAlterado",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "isDirty",
+      "pt": "foiAlterado",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.temUm",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "hasOne",
+      "pt": "temUm",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.temMuitos",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "hasMany",
+      "pt": "temMuitos",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.pertenceA",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "belongsTo",
+      "pt": "pertenceA",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Modelo.pertenceAMuitos",
+      "kind": "method",
+      "class": "Luany\\Pt\\Modelo",
+      "en_class": "Luany\\Database\\Model",
+      "en": "belongsToMany",
+      "pt": "pertenceAMuitos",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.onde",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\QueryBuilder",
+      "en": "where",
+      "pt": "onde",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.ouOnde",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\QueryBuilder",
+      "en": "orWhere",
+      "pt": "ouOnde",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.ordenarPor",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\QueryBuilder",
+      "en": "orderBy",
+      "pt": "ordenarPor",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.limite",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\QueryBuilder",
+      "en": "limit",
+      "pt": "limite",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.contar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\QueryBuilder",
+      "en": "count",
+      "pt": "contar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.com",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "with",
+      "pt": "com",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.ondeTem",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "whereHas",
+      "pt": "ondeTem",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.tem",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "has",
+      "pt": "tem",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.comContagem",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "withCount",
+      "pt": "comContagem",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.obter",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "get",
+      "pt": "obter",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.primeiro",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "first",
+      "pt": "primeiro",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.primeiroOuFalhar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "firstOrFail",
+      "pt": "primeiroOuFalhar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.paginar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "paginate",
+      "pt": "paginar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.extrair",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "pluck",
+      "pt": "extrair",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Consulta.emBlocos",
+      "kind": "method",
+      "class": "Luany\\Pt\\Consulta",
+      "en_class": "Luany\\Database\\ModelQuery",
+      "en": "chunk",
+      "pt": "emBlocos",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.para",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "for",
+      "pt": "para",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.criar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "create",
+      "pt": "criar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.criarSeNaoExistir",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "createIfNotExists",
+      "pt": "criarSeNaoExistir",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.alterar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "table",
+      "pt": "alterar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.apagar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "drop",
+      "pt": "apagar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.apagarSeExistir",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "dropIfExists",
+      "pt": "apagarSeExistir",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.renomear",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "rename",
+      "pt": "renomear",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.temTabela",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "hasTable",
+      "pt": "temTabela",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Esquema.temColuna",
+      "kind": "method",
+      "class": "Luany\\Pt\\Esquema",
+      "en_class": "Luany\\Database\\Schema\\Schema",
+      "en": "hasColumn",
+      "pt": "temColuna",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.chaveEstrangeira",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "foreignId",
+      "pt": "chaveEstrangeira",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.texto",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "string",
+      "pt": "texto",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.textoLongo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "text",
+      "pt": "textoLongo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.textoExtenso",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "longText",
+      "pt": "textoExtenso",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.inteiro",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "integer",
+      "pt": "inteiro",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.inteiroGrande",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "bigInteger",
+      "pt": "inteiroGrande",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.booleano",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "boolean",
+      "pt": "booleano",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.data",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "date",
+      "pt": "data",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.dataHora",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "dateTime",
+      "pt": "dataHora",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.hora",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "time",
+      "pt": "hora",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.marcaTempo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "timestamp",
+      "pt": "marcaTempo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.marcasTempo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "timestamps",
+      "pt": "marcasTempo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.eliminacaoLogica",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "softDeletes",
+      "pt": "eliminacaoLogica",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.apagarColuna",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "dropColumn",
+      "pt": "apagarColuna",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.renomearColuna",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "renameColumn",
+      "pt": "renomearColuna",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Tabela.estrangeira",
+      "kind": "method",
+      "class": "Luany\\Pt\\Tabela",
+      "en_class": "Luany\\Database\\Schema\\Blueprint",
+      "en": "foreign",
+      "pt": "estrangeira",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.anulavel",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "nullable",
+      "pt": "anulavel",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.padrao",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "default",
+      "pt": "padrao",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.semSinal",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "unsigned",
+      "pt": "semSinal",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.unico",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "unique",
+      "pt": "unico",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.indice",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "index",
+      "pt": "indice",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.primaria",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "primary",
+      "pt": "primaria",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Coluna.usarAtual",
+      "kind": "method",
+      "class": "Luany\\Pt\\Coluna",
+      "en_class": "Luany\\Database\\Schema\\ColumnDefinition",
+      "en": "useCurrent",
+      "pt": "usarAtual",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\ChaveEstrangeira.restrita",
+      "kind": "method",
+      "class": "Luany\\Pt\\ChaveEstrangeira",
+      "en_class": "Luany\\Database\\Schema\\ForeignIdColumnDefinition",
+      "en": "constrained",
+      "pt": "restrita",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\ChaveEstrangeira.anulavel",
+      "kind": "method",
+      "class": "Luany\\Pt\\ChaveEstrangeira",
+      "en_class": "Luany\\Database\\Schema\\ForeignIdColumnDefinition",
+      "en": "nullable",
+      "pt": "anulavel",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\ChaveEstrangeira.indice",
+      "kind": "method",
+      "class": "Luany\\Pt\\ChaveEstrangeira",
+      "en_class": "Luany\\Database\\Schema\\ForeignIdColumnDefinition",
+      "en": "index",
+      "pt": "indice",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\ChaveEstrangeira.unico",
+      "kind": "method",
+      "class": "Luany\\Pt\\ChaveEstrangeira",
+      "en_class": "Luany\\Database\\Schema\\ForeignIdColumnDefinition",
+      "en": "unique",
+      "pt": "unico",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\ChaveEstrangeira.padrao",
+      "kind": "method",
+      "class": "Luany\\Pt\\ChaveEstrangeira",
+      "en_class": "Luany\\Database\\Schema\\ForeignIdColumnDefinition",
+      "en": "default",
+      "pt": "padrao",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.referencia",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "references",
+      "pt": "referencia",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.em",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "on",
+      "pt": "em",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.aoApagar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "onDelete",
+      "pt": "aoApagar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.aoAtualizar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "onUpdate",
+      "pt": "aoAtualizar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.apagarEmCascata",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "cascadeOnDelete",
+      "pt": "apagarEmCascata",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.restringirAoApagar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "restrictOnDelete",
+      "pt": "restringirAoApagar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.anularAoApagar",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "nullOnDelete",
+      "pt": "anularAoApagar",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.atualizarEmCascata",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "cascadeOnUpdate",
+      "pt": "atualizarEmCascata",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Restricao.nome",
+      "kind": "method",
+      "class": "Luany\\Pt\\Restricao",
+      "en_class": "Luany\\Database\\Schema\\ForeignKeyDefinition",
+      "en": "name",
+      "pt": "nome",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.get",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "get",
+      "pt": "get",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.post",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "post",
+      "pt": "post",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.put",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "put",
+      "pt": "put",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.patch",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "patch",
+      "pt": "patch",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.delete",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "delete",
+      "pt": "delete",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.qualquer",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "any",
+      "pt": "qualquer",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.recurso",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "resource",
+      "pt": "recurso",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.recursoApi",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "apiResource",
+      "pt": "recursoApi",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.vista",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "view",
+      "pt": "vista",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.grupo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "group",
+      "pt": "grupo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.prefixo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "prefix",
+      "pt": "prefixo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.middleware",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "middleware",
+      "pt": "middleware",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.vincular",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "bind",
+      "pt": "vincular",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\Rota.modelo",
+      "kind": "method",
+      "class": "Luany\\Pt\\Rota",
+      "en_class": "Luany\\Core\\Routing\\Route",
+      "en": "model",
+      "pt": "modelo",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\RotaDefinida.nome",
+      "kind": "method",
+      "class": "Luany\\Pt\\RotaDefinida",
+      "en_class": "Luany\\Core\\Routing\\RouteRegistrar",
+      "en": "name",
+      "pt": "nome",
+      "variants": []
+    },
+    {
+      "id": "Luany\\Pt\\RotaDefinida.middleware",
+      "kind": "method",
+      "class": "Luany\\Pt\\RotaDefinida",
+      "en_class": "Luany\\Core\\Routing\\RouteRegistrar",
+      "en": "middleware",
+      "pt": "middleware",
+      "variants": []
+    },
+    {
+      "id": "fn.vista",
+      "kind": "function",
+      "en": "view",
+      "pt": "vista",
+      "variants": []
+    },
+    {
+      "id": "fn.redirecionar",
+      "kind": "function",
+      "en": "redirect",
+      "pt": "redirecionar",
+      "variants": []
+    },
+    {
+      "id": "fn.resposta",
+      "kind": "function",
+      "en": "response",
+      "pt": "resposta",
+      "variants": []
+    },
+    {
+      "id": "fn.validar",
+      "kind": "function",
+      "en": "validate",
+      "pt": "validar",
+      "variants": []
+    },
+    {
+      "id": "fn.rota",
+      "kind": "function",
+      "en": "route",
+      "pt": "rota",
+      "variants": []
+    },
+    {
+      "id": "fn.configuracao",
+      "kind": "function",
+      "en": "config",
+      "pt": "configuracao",
+      "variants": []
+    },
+    {
+      "id": "fn.sessao",
+      "kind": "function",
+      "en": "session",
+      "pt": "sessao",
+      "variants": []
+    },
+    {
+      "id": "fn.valorAnterior",
+      "kind": "function",
+      "en": "old",
+      "pt": "valorAnterior",
+      "variants": []
+    },
+    {
+      "id": "fn.abortar",
+      "kind": "function",
+      "en": "abort",
+      "pt": "abortar",
+      "variants": []
+    },
+    {
+      "id": "fn.traduzir",
+      "kind": "function",
+      "en": "__",
+      "pt": "traduzir",
+      "variants": []
+    },
+    {
+      "id": "fn.registo",
+      "kind": "function",
+      "en": "logger",
+      "pt": "registo",
+      "variants": [
+        "registro"
+      ]
+    }
+  ]
+}
