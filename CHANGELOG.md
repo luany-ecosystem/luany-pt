@@ -6,7 +6,7 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [Unreleased]
+## [1.0.1] — 2026-11-23
 
 ### Fixed
 - `restrita()` plural: `pais_id` → `paises` (was `pais`), `cancao_id` → `cancoes`. Same rule as luany/cli's Portuguese generators.
