@@ -1007,6 +1007,13 @@
       "variants": [
         "registro"
       ]
+    },
+    {
+      "id": "fn.data",
+      "kind": "function",
+      "en": "format_date",
+      "pt": "data",
+      "variants": []
     }
   ]
 }

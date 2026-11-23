@@ -106,3 +106,16 @@ if (!function_exists('registro')) {
         return logger($mensagem, $contexto, $nivel);
     }
 }
+
+if (!function_exists('data')) {
+    /**
+     * Uma data no locale da aplicação (= format_date()):
+     *   data($artigo->created_at);          // 23/11/2026
+     *   data($artigo->created_at, 'long');  // 23 de novembro de 2026
+     * Estilos: short, medium, long, full, time, datetime.
+     */
+    function data(\DateTimeInterface|string|int|null $valor, string $estilo = 'short'): string
+    {
+        return format_date($valor, $estilo);
+    }
+}
