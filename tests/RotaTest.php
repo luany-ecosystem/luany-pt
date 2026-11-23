@@ -67,5 +67,7 @@ class RotaTest extends TestCase
         $this->assertSame('papeis', ChaveEstrangeira::tabelaPt('papel_id'));
         $this->assertSame('itens', ChaveEstrangeira::tabelaPt('item_id'));
         $this->assertSame('cidades', ChaveEstrangeira::tabelaPt('cidade_id'));
+        $this->assertSame('paises', ChaveEstrangeira::tabelaPt('pais_id'));
+        $this->assertSame('cancoes', ChaveEstrangeira::tabelaPt('cancao_id'));
     }
 }
