@@ -6,7 +6,7 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [Unreleased]
+## [1.0.2] — 2026-11-24
 
 ### Added
 - `data($valor, $estilo)` — alias of luany/framework's `format_date()` (dates in the app's locale; styles `short`, `medium`, `long`, `full`, `time`, `datetime`). Requires luany/framework 1.14.
