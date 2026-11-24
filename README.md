@@ -103,7 +103,7 @@ Os verbos HTTP não se traduzem. Também: `qualquer`, `recursoApi`, `grupo`, `vi
 
 ## Helpers
 
-`vista()`, `redirecionar()`, `resposta()`, `validar()`, `rota()`, `configuracao()`, `sessao()`, `valorAnterior()`, `abortar()`, `traduzir()`, `registo()` (ou `registro()`). Iguais: `url()`, `e()`, `env()`, `asset()`.
+`vista()`, `redirecionar()`, `resposta()`, `validar()`, `rota()`, `configuracao()`, `sessao()`, `valorAnterior()`, `abortar()`, `traduzir()`, `registo()` (ou `registro()`), `data()` (datas no locale da aplicação: `data($artigo->created_at, 'long')` → `23 de novembro de 2026`; estilos `short`, `medium`, `long`, `full`, `time`, `datetime`). Iguais: `url()`, `e()`, `env()`, `asset()`.
 
 ## Com o resto do "Luany em Português"
 
